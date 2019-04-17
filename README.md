@@ -13,8 +13,7 @@ We deal with the following questions:
 Q1. ProductPopularity: Make a list of products and total up the number of actual
 items ordered. Put the most frequently ordered item at the top of the list and so on
 to the least frequently ordered item.\
-
-Q2.ategorySuppliers: Make a list of categories and suppliers who supply products
-within those categories.\
+Q2. CategorySuppliers: Make a list of categories and suppliers who supply products
+within those categories.
 
 
