@@ -14,6 +14,8 @@ Q1. ProductPopularity: Make a list of products and total up the number of actual
 items ordered. Put the most frequently ordered item at the top of the list and so on
 to the least frequently ordered item.\
 Q2. CategorySuppliers: Make a list of categories and suppliers who supply products
-within those categories.
+within those categories.\
+Q3. CustomerNumberOfOrders: Make a complete list of customers along with the
+number of orders they have placed.
 
 
