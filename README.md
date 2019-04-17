@@ -15,7 +15,7 @@ items ordered. Put the most frequently ordered item at the top of the list and s
 to the least frequently ordered item.\
 Q2. CategorySuppliers: Make a list of categories and suppliers who supply products
 within those categories.\
-Q3. CustomerNumberOfOrders: Make a complete list of customers along with the
-number of orders they have placed.
+Q3. CustomerWithMaxNumberOfOrders: Create a query that determines the customer
+who has placed the maximum number of orders.
 
 
