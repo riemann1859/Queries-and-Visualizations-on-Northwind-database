@@ -16,6 +16,7 @@ to the least frequently ordered item.\
 Q2. CategorySuppliers: Make a list of categories and suppliers who supply products
 within those categories.\
 Q3. CustomerWithMaxNumberOfOrders: Create a query that determines the customer
-who has placed the maximum number of orders.
+who has placed the maximum number of orders.\
+Q4. Create a table with three columns: a city name, number of customers and suppliers   from that city.
 
 
