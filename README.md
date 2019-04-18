@@ -18,6 +18,7 @@ within those categories.\
 Q3. CustomerWithMaxNumberOfOrders: Create a query that determines the customer
 who has placed the maximum number of orders.\
 Q4. Create a table with three columns: a city name, number of customers and suppliers   from that city.\
-Q5. Show the unitprice of the 3 most expensive products in each category.
+Q5. Show the unitprice of the 3 most expensive products in each category.\
+Q6. Which companies buy seafood but not dairy?
 
 
