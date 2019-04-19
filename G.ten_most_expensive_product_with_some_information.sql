@@ -6,3 +6,4 @@ join suppliers as s
 on s."SupplierID"=p."SupplierID"
 order by p."UnitPrice" desc
 limit 10
+ 
