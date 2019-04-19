@@ -20,6 +20,5 @@ who has placed the maximum number of orders.\
 Q4. Create a table with three columns: a city name, number of customers and suppliers   from that city.\
 Q5. Show the unitprice of the 3 most expensive products in each category.\
 Q6. Which companies buy seafood but not dairy?\
-Q7. Give the names of employees who sell the products of more than 7 suppliers.
-
+Q7. List ten most expensive products with their category names and some information on their suppliers.
 
