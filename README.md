@@ -24,5 +24,6 @@ Q7. List ten most expensive products with their category names and some informat
 Q8. Create a report showing the first name, last name, and country of all employees not in the UnitedStates.\
 Q9. Find customers who has spent more than $25,000 in total.\
 Q10. Calculate total revenue for each category. \
-Q11. On what day of the week do Northwind Traders  sell the most on average?  
+Q11. On what day of the week do Northwind Traders  sell the most on average?  \
+Q12. List all employers and their contact names in customer companies and the number of order contacts between each pair.
 
