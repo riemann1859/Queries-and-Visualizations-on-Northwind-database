@@ -1,5 +1,5 @@
 select    c."CategoryID", c."CategoryName",
-     sum(od."UnitPrice"*od."Quantity"*(1-od."Discount")) as revenue_provided_by_customer
+     sum(od."UnitPrice"*od."Quantity"*(1-od."Discount")) as total_revenue_provided_by_category
 from orders as o
 join order_details as od
 on o."OrderID"=od."OrderID"
