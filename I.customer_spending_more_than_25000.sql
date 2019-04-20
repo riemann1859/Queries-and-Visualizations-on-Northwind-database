@@ -8,3 +8,4 @@ on c."CustomerID"=o."CustomerID"
 group by 1,2
 having sum(od."UnitPrice"*od."Quantity"*(1-od."Discount"))>25000
 order by 3 desc; 
+ 
