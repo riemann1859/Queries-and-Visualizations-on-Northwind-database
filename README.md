@@ -23,5 +23,6 @@ Q6. Which companies buy seafood but not dairy?\
 Q7. List ten most expensive products with their category names and some information on their suppliers.\
 Q8. Create a report showing the first name, last name, and country of all employees not in the UnitedStates.\
 Q9. Find customers who has spent more than $25,000 in total.\
-Q10. Calculate total revenue for each category. 
+Q10. Calculate total revenue for each category. \
+Q11. On what day of the week do Northwind Traders  sell the most on average?  
 
