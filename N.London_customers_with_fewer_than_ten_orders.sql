@@ -1,6 +1,6 @@
 select c."CustomerID", count(o."OrderID") as total_order
-from orders as o
-join customers as c
+from customers as c
+left join orders as o
 on c."CustomerID"=o."CustomerID"
 where c."City"='London'
 group by 1
