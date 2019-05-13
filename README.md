@@ -25,5 +25,6 @@ Q8. Create a report showing the first name, last name, and country of all employ
 Q9. Find customers who has spent more than $25,000 in total.\
 Q10. Calculate total revenue for each category. \
 Q11. On what day of the week do Northwind Traders  sell the most on average?  \
-Q12. List all employers and their contact names in customer companies and the number of order contacts between each pair.
-Q13. List all countries with respect to total expenditures from Northwind traders.
+Q12. List all employers and their contact names in customer companies and the number of order contacts between each pair.\
+Q13. List all countries with respect to total expenditures from Northwind traders.\
+Q14. List all London customers with fewer than 3 orders.
