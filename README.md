@@ -28,4 +28,5 @@ Q11. On what day of the week do Northwind Traders  sell the most on average?  \
 Q12. List all employers and their contact names in customer companies and the number of order contacts between each pair.\
 Q13. List all countries with respect to total expenditures from Northwind traders.\
 Q14. List all London customers with fewer than 10 orders.\
-Q15. List the two most recent orders for each customer.
+Q15. List the two most recent orders for each customer.\
+Q16. Categorize customers based on count of orders: no orders, up to two orders, more than two orders.
