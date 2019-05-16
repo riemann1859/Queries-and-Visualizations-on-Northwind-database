@@ -30,4 +30,5 @@ Q13. List all countries with respect to total expenditures from Northwind trader
 Q14. List all London customers with fewer than 10 orders.\
 Q15. List the two most recent orders for each customer.\
 Q16. Categorize customers based on count of orders: no orders, up to seven orders, more than seven orders.\
-Q17. List the number of customers that fall into  above categories per city.
+Q17. List the number of customers that fall into  above categories per city.\
+Q18. List all customers  for whom every Northwind employee  from USA has handled  at least one order.
