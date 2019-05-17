@@ -32,4 +32,5 @@ Q15. List the two most recent orders for each customer.\
 Q16. Categorize customers based on count of orders: no orders, up to seven orders, more than seven orders.\
 Q17. List the number of customers that fall into  above categories per city.\
 Q18. List all customers  for whom every Northwind employee  from USA has handled  at least one order.\
-Q19. List all the last actual order date of each  month of each year.
+Q19. List all the last actual order date of each  month of each year.\
+Q20. List the most recent order for each employee.
