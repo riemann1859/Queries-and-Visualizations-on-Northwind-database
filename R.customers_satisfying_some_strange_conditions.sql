@@ -18,3 +18,6 @@ where not exists (
 							          and o."EmployeeID"=e."EmployeeID"
 							       )
                  )
+
+-- Notice that the second approach gives you access to all the customer attributes, while the first one gives you access only to 
+-- the CustomerID. To access other customer attributes, you need to add a join between the result set and the Customers table. 
