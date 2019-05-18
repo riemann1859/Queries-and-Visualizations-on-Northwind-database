@@ -34,4 +34,5 @@ Q17. List the number of customers that fall into  above categories per city.\
 Q18. List all customers  for whom every Northwind employee  from USA has handled  at least one order.\
 Q19. List all the last actual order date of each  month of each year.\
 Q20. List the most recent order for each employee. Corresponding to each employee there must be only one row.\
-Q21. List  all customers  from Spain that made orders.
+Q21. List  all customers  from Spain that made orders.\
+Q22. List  all customers  from Spain that made no order.\
