@@ -37,4 +37,5 @@ Q20. List the most recent order for each employee. Corresponding to each employe
 Q21. List  all customers  from Spain that made orders.\
 Q22. List  all customers  from Spain that made no order.\
 Q23. Return the order with the minimum order for each employee.\
-Q24. Compare each year's number of active customers to the previous year's by a table.
+Q24. Compare each year's number of active customers to the previous year's by a table.\
+Q25. List employees'names with their managers' names.\
