@@ -39,3 +39,4 @@ Q22. List  all customers  from Spain that made no order.\
 Q23. Return the order with the minimum order for each employee.\
 Q24. Compare each year's number of active customers to the previous year's by a table.\
 Q25. List employees'names with their managers' names.\
+Q26. Calculate row number of each order based on increasing OrderID.\
