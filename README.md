@@ -41,5 +41,6 @@ Q24. Compare each year's number of active customers to the previous year's by a 
 Q25. List employees'names with their managers' names.\
 Q26. Calculate row number of each order based on increasing OrderID.\
 Q27. Returns all pairs of customer company name and supplier company name, where  the supplier supplied products to the customer.\
-Q28. List the total number of orders for each month.
+Q28. List the total number of orders for each month.\
+Q29. List the sliding total of previous year for each month.
 
