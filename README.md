@@ -40,3 +40,5 @@ Q23. Return the order with the minimum order for each employee.\
 Q24. Compare each year's number of active customers to the previous year's by a table.\
 Q25. List employees'names with their managers' names.\
 Q26. Calculate row number of each order based on increasing OrderID.\
+Q27. Returns all pairs of customer company name and supplier company name, where  the supplier supplied products to the customer.
+
