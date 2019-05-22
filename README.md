@@ -48,4 +48,5 @@ Q31. Write a query that returns all orders placed on the last day of activity th
 Orders table.\
 Q32. Write a query that returns all orders placed on the last day of activity that can be found in the
 Orders table.
+Q33. Write a query that returns employees who did not place orders on or after May 1, 2008.
 
