@@ -42,5 +42,6 @@ Q25. List employees'names with their managers' names.\
 Q26. Calculate row number of each order based on increasing OrderID.\
 Q27. Returns all pairs of customer company name and supplier company name, where  the supplier supplied products to the customer.\
 Q28. List the total number of orders for each month.\
-Q29. List the sliding total of previous year for each month.
+Q29. List the sliding total of previous year for each month.\
+Q30. How many cities there are in each country covered by customers or employees.
 
