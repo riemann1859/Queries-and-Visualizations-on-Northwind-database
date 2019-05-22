@@ -46,4 +46,6 @@ Q29. List the sliding total of previous year for each month.\
 Q30. How many cities there are in each country covered by customers or employees.\
 Q31. Write a query that returns all orders placed on the last day of activity that can be found in the
 Orders table.\
+Q32. Write a query that returns all orders placed on the last day of activity that can be found in the
+Orders table.
 
