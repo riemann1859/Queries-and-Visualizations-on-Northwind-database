@@ -1,10 +1,10 @@
 
 with monthly_orders as (
-	                      select date_trunc('month', "OrderDate")::date as month_, count(*) as total_number_of_orders
+	                select date_trunc('month', "OrderDate")::date as month_, count(*) as total_number_of_orders
                         from orders
                         group by 1
                         order by 1
-	                     )
+	               )
 			
 select table1.month_ as starting_date, date(table1.month_ + interval '1 year') as ending_date,
       (select sum(table2.total_number_of_orders) as yearly_orders
