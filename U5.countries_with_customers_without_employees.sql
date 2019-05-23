@@ -14,7 +14,7 @@ from customers as c
 where not exists (
                           select e."Country"
                           from employees  as e
-	                        where e."Country"=c."Country"
+	                  where e."Country"=c."Country"
                   )
 order by 1
 
