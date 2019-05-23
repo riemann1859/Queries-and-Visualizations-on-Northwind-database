@@ -5,3 +5,4 @@ where "CustomerID" not in (
                            from orders
                            where "OrderDate">= timestamp '1998-01-01'
                           )
+  
