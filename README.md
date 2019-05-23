@@ -48,5 +48,6 @@ Q31. Write a query that returns all orders placed on the last day of activity th
 Orders table.\
 Q32. Write a query that returns all orders placed on the last day of activity that can be found in the
 Orders table.\
-Q33. Write a query that returns customers who did not place orders in 1998.
+Q33. Write a query that returns customers who did not place orders in 1998.\
+Q34. Write a query that returns countries where there are customers but not employees.
 
