@@ -53,5 +53,6 @@ Q34. Write a query that returns countries where there are customers but not empl
 Q35. Write a query that returns for each customer all orders placed on the customer’s last activity day.\
 Q36. Write a query that returns customers who placed orders in 1997 but not in 1998.\
 Q37. Write a query that returns customers who ordered product 12.\
-Q38. List two most expensive Dairy Products for each supplier
+Q38. List two most expensive Dairy Products for each supplier.\
+Q39. Find average waiting time in terms of day between two consecutive orders for each employee.
 
