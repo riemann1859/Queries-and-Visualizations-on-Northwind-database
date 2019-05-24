@@ -52,5 +52,6 @@ Q33. Write a query that returns customers who did not place orders in 1998.\
 Q34. Write a query that returns countries where there are customers but not employees.\
 Q35. Write a query that returns for each customer all orders placed on the customer’s last activity day.\
 Q36. Write a query that returns customers who placed orders in 1997 but not in 1998.\
-Q37. Write a query that returns customers who ordered product 12.
+Q37. Write a query that returns customers who ordered product 12.\
+Q38. List two most expensive Dairy Products for each supplier
 
